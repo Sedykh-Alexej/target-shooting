@@ -1,0 +1,18 @@
+﻿<Page x:Class="Стрельба_по_мишеням.FormMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Стрельба_по_мишеням"
+      mc:Ignorable="d" 
+      d:DesignHeight="675" d:DesignWidth="1036"
+      Title="FormMenu">
+
+    <Grid Cursor="/resources/purple gun normal select.cur">
+        <Image Source="Resources/Backgroundd.PNG" Stretch="Fill"></Image>
+        <Button Name="ButStart" Click="StartGame_Button_click" Style="{DynamicResource ButtonStyle}" Content="Старт"  Margin="394,128,408,492" Height="55" Width="234"></Button>
+        <Button Name="But2" Click="TopGamer_Button_click" Style="{DynamicResource ButtonStyle}" Content="Список лидеров" Margin="394,244,408,376" Height="55" Width="234"/>
+        <Button Name="But3" Style="{DynamicResource ButtonStyle}" Click="Settings_Button_click" Content="Настройки" Margin="394,353,408,267" Height="55" Width="234" RenderTransformOrigin="0.526,0.319"/>
+        <Button Name="But4" Style="{DynamicResource ButtonStyle}" Click="Exit" Content="Выйти" Margin="394,458,408,162" Height="55" Width="234" RenderTransformOrigin="0.502,1.032"/>
+    </Grid>
+</Page>

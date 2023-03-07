@@ -1,0 +1,27 @@
+﻿<Page x:Class="Стрельба_по_мишеням.SettingsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Стрельба_по_мишеням"
+      mc:Ignorable="d" 
+      d:DesignHeight="675" d:DesignWidth="1036"
+      Title="SettingsPage">
+
+    <Grid Cursor="/resources/purple gun normal select.cur">
+        <Image Source="Resources/Backgroundd.PNG" Stretch="Fill"></Image>
+        <TextBlock Text="Настройки" Style="{DynamicResource CustomFont}" Margin="373,19,393,596"></TextBlock>
+        <TextBlock Text="Выбор темы" Style="{DynamicResource CustomFont}" Margin="64,86,672,529"></TextBlock>
+        <Button x:Name="ButMenu" Style="{DynamicResource ButtonStyle}" Click="BtnBack" Content="Выйти в главное меню"  Margin="400,593,402,27" Height="55" Width="234"/>
+        <Button x:Name="PurpleStyle" Style="{DynamicResource ButtonStyle}"  Click="purplestyle" Content="Фиолетовая тема"  Margin="232,168,570,452" Width="234" Height="55"/>
+        <Button x:Name="BlackStyle" Style="{DynamicResource ButtonStyle}" Click="blackstyle" Content="Чёрная тема"  Margin="544,168,258,452" Width="234" Height="55"/>
+        <Button x:Name="ЛёгкийРежим" Style="{DynamicResource ButtonStyle}"  Click="Easy" Content="Лёгкий"  Margin="64,331,738,289" Width="234" Height="55"/>
+        <Button x:Name="СреднийРежим" Style="{DynamicResource ButtonStyle}"  Click="Medium" Content="Средний"  Margin="358,331,444,289" Width="234" Height="55"/>
+        <Button x:Name="СложныйРежим" Style="{DynamicResource ButtonStyle}"  Click="Hard" Content="Сложный"  Margin="659,331,143,289" Width="234" Height="55"/>
+        <TextBlock Text="Выбор уровня сложности" Style="{DynamicResource CustomFont}" Margin="64,242,312,373"></TextBlock>
+        <TextBlock Text="Режим с одной жизнью" Style="{DynamicResource CustomFont}" Margin="49,418,380,197" Width="607"></TextBlock>
+        <Button x:Name="Включить" Style="{DynamicResource ButtonStyle}"  Click="On" Content="Включить"  Margin="232,499,570,121" Width="234" Height="55"/>
+        <Button x:Name="Выключить" Style="{DynamicResource ButtonStyle}"  Click="OFF" Content="Выключить"  Margin="603,499,199,121" Width="234" Height="55"/>
+
+    </Grid>
+</Page>

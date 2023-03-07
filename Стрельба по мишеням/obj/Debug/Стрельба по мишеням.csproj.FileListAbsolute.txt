@@ -1,0 +1,109 @@
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.exe.config
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.exe
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.pdb
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\App.g.cs
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_MarkupCompile.cache
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_MarkupCompile.lref
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\MainWindow.baml
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.g.resources
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба_по_мишеням.Properties.Resources.resources
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.exe
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.pdb
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\App.baml
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\FormMenu.g.cs
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\FormMenu.baml
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\SettingsPage.g.cs
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\SettingsPage.baml
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\PurpleStyle.baml
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\BlackStyle.baml
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_Content.g.cs
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\sound\Выстрел.mp3
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\sound\Звук пропуска мишени.mp3
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\GamePage2.g.cs
+C:\Users\Алексей\source\repos\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\GamePage2.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\sound\Выстрел.mp3
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\sound\Звук пропуска мишени.mp3
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.exe.config
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.exe
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.pdb
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\BlackStyle.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\PurpleStyle.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\FormMenu.g.cs
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\GamePage2.g.cs
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\SettingsPage.g.cs
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_Content.g.cs
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_MarkupCompile.cache
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_MarkupCompile.lref
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\App.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\FormMenu.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\GamePage2.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\SettingsPage.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.g.resources
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба_по_мишеням.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.exe
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.pdb
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Player.g.cs
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\TopGamer.g.cs
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Gamers.db
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\EntityFramework.dll
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\System.Data.SQLite.dll
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\EntityFramework.xml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\System.Data.SQLite.xml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Player.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\TopGamer.baml
+C:\Users\Алексей\Desktop\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csproj.CopyComplete
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\sound\Выстрел.mp3
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\sound\Звук пропуска мишени.mp3
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.exe.config
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.exe
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Стрельба по мишеням.pdb
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\EntityFramework.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\System.Data.SQLite.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\EntityFramework.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\System.Data.SQLite.xml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\BlackStyle.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\PurpleStyle.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\FormMenu.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\GamePage2.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Player.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\SettingsPage.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\TopGamer.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_Content.g.cs
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_MarkupCompile.cache
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням_MarkupCompile.lref
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\App.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\FormMenu.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\GamePage2.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Player.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\SettingsPage.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\TopGamer.baml
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.g.resources
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба_по_мишеням.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.csproj.CopyComplete
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.exe
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\obj\Debug\Стрельба по мишеням.pdb
+C:\Users\Алексей\Desktop\Интерфейсы c#\Стрельба по мишеням\Стрельба по мишеням\bin\Debug\Gamers.db
